@@ -20,16 +20,28 @@ The main stages of the project include:
 
 The main stages:
 
-1. Current Situation Survey: Conduct interviews and surveys to gather information about the current process of renting houses, managing contracts, invoices, customers, and technical support.
-2. Software Requirements Definition:
+**1. Current Situation Survey:** Conduct interviews and surveys to gather information about the current process of renting houses, managing contracts, invoices, customers, and technical support.
+
+**2. Software Requirements Definition:**
+
   - Functional Requirements: Store information about customers, rooms, support tickets, invoices, contracts, and accounts. Search for information about customers, support tickets, rooms, and contracts. Calculate and generate statistics on invoices, revenue, and room status.
+
   - Non-Functional Requirements: User-friendly interface, user role-based access control, system security.
-3. System Design:
+
+**3. System Design:**
+
   - Design use-case diagrams to describe the actors and use cases of the system.
+
   - Design activity diagrams to describe the main business processes.
+  
   - Design class diagrams and state diagrams to describe the structure and behavior of the system objects.
+  
   - Develop entity-relationship models and relational models to manage data.
-4. Implementation and Testing:
+
+**4. Implementation and Testing:**
+  
   - Set up the development and deployment environment.
+  
   - Design user interfaces for landlords and tenants.
+  
   - Perform testing to ensure the system functions correctly.
